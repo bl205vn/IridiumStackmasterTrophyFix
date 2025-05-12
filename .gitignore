@@ -1,0 +1,14 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio metadata
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Publish output
+publish/

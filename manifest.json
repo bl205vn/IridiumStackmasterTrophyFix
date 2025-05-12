@@ -1,0 +1,10 @@
+﻿{
+    "Name": "Iridium Stackmaster Trophy Fix",
+    "Author": "Blaze",
+    "Version": "1.0.0",
+    "Description": "Fixes and enhances the Iridium Stackmaster Trophy easter egg with multilingual support.",
+    "UniqueID": "blaze.IridiumStackmasterTrophyFix",
+    "EntryDll": "IridiumStackmasterTrophyFix.dll",
+    "UpdateKeys": [],
+    "MinimumApiVersion": "3.0.0"
+}
